@@ -1,0 +1,263 @@
+
+
+  cellularVoiceLastCallEnd {
+
+    timestamp: 1637845017103
+
+    version: 7
+
+    call_event: VOICE_CALL_END
+
+    call_id: "214bebee"
+
+    app_call_id: 1
+
+    band: 4
+
+    drx_on: 1
+
+    accessory_attached: true
+
+    antenna: ARTD_ANT0
+
+    mnc: 480
+
+    mcc: 311
+
+    end_status: VOICE_CALL_END_NORMAL
+
+    due_to_handover: false
+
+    call_duration: 31396
+
+    call_connect_dur: 5351
+
+    hst_state: 0
+
+    msg_id: 6
+
+    event_id: 0
+
+    response_code: 0
+
+    direction: VOICE_CALL_DIRECTION_MO
+
+    setup_direction: VOICE_CALL_DIRECTION_MO
+
+    last_x_sec: 3
+
+    mtpl_in_point_1_db: 200
+
+    num_recvd_speech_pkt: 225
+
+    num_recvd_silence_pkt: 10
+
+    num_uflw_speech_pkt: 0
+
+    num_uflw_silence_pkt: 0
+
+    num_enqd_speech_pkt: 225
+
+    num_enqd_silence_pkt: 9
+
+    num_lost_pkt: 0
+
+    num_played_speech_pkt: 223
+
+    num_missed_speech_pkt: 0
+
+    delay_cnt: 0
+
+    delay_cnt: 5
+
+    delay_cnt: 0
+
+    delay_cnt: 2
+
+    delay_cnt: 0
+
+    delay_cnt: 176
+
+    delay_cnt: 0
+
+    delay_cnt: 49
+
+    delay_cnt: 0
+
+    delay_cnt: 0
+
+    last_audio_quality_cnt {
+
+      num_recvd_speech_pkt: 150
+
+      num_recvd_silence_pkt: 0
+
+      num_uflw_speech_pkt: 0
+
+      num_uflw_silence_pkt: 0
+
+      num_enqd_speech_pkt: 150
+
+      num_enqd_silence_pkt: 0
+
+      num_lost_pkt: 0
+
+      num_played_speech_pkt: 150
+
+      num_missed_speech_pkt: 0
+
+      delay_cnt: 0
+
+      delay_cnt: 0
+
+      delay_cnt: 0
+
+      delay_cnt: 0
+
+      delay_cnt: 0
+
+      delay_cnt: 150
+
+      delay_cnt: 0
+
+      delay_cnt: 0
+
+      delay_cnt: 0
+
+      delay_cnt: 0
+
+    }
+
+    rtp_pkt_loss_ppt: 0
+
+    fr_erasure_ppt: 0
+
+    tb_ms: 0
+
+    last_x_sec_ul_mrab: false
+
+    last_x_sec_dl_mrab: false
+
+    cell_id: 43635488
+
+    lac: 43523
+
+    cap_event {
+
+      cap_state: CFG_HEAD
+
+    }
+
+    cap_event {
+
+      cap_state: CFG_NONE
+
+    }
+
+    rb_data {
+
+      qos: 5
+
+      rlc_mode: AM
+
+      ul_data_bytes: 7487
+
+      ul_discard_bytes: 0
+
+      ul_last_x_sec_discard_bytes: 0
+
+      ul_last_x_sec_discard_pdus: 0
+
+      ul_last_x_sec_total_bytes: 0
+
+      ul_last_x_sec_total_pdus: 0
+
+      dl_data_bytes: 7930
+
+      dl_total_pdus: 27
+
+      dl_ctrl_pdus: 0
+
+      dl_last_x_sec_total_bytes: 0
+
+      dl_last_x_sec_total_pdus: 0
+
+    }
+
+    rb_data {
+
+      qos: 1
+
+      rlc_mode: UM
+
+      ul_data_bytes: 7022
+
+      ul_discard_bytes: 0
+
+      ul_last_x_sec_discard_bytes: 0
+
+      ul_last_x_sec_discard_pdus: 0
+
+      ul_last_x_sec_total_bytes: 1048
+
+      ul_last_x_sec_total_pdus: 32
+
+      dl_data_bytes: 9169
+
+      dl_total_pdus: 248
+
+      dl_ctrl_pdus: 12
+
+      dl_last_x_sec_total_bytes: 5550
+
+      dl_last_x_sec_total_pdus: 150
+
+      dl_hc_pdus: 12
+
+      hc_dec_fail_pdus: 0
+
+    }
+
+    hc_stat {
+
+      comp_type: 0
+
+      failure_ir_state_ppt: 0
+
+      failure_fo_or_sc_state_ppt: 0
+
+      failure_so_or_fc_state_ppt: 0
+
+    }
+
+    hc_stat {
+
+      comp_type: 1
+
+      failure_ir_state_ppt: 0
+
+      failure_fo_or_sc_state_ppt: 0
+
+      failure_so_or_fc_state_ppt: 0
+
+    }
+
+    last_motion_state: 1
+
+  }
+
+}
+
+metriclogs {
+
+  triggerTime: 1637844999125
+
+  triggerId: 2293764
+
+  profileId: 285
+
+  wrmWifiCallingEnd {
+
+    timestamp: 1637844999124
+
+
